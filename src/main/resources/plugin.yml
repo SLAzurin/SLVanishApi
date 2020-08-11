@@ -1,0 +1,6 @@
+name: SLVanishApi
+main: io.github.slazurin.slvanishapi.SLVanishApi
+version: 0.0.1
+author: Azurin
+api-version: 1.16
+softdepend: [SuperVanish]
